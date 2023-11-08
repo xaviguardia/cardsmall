@@ -1,0 +1,27 @@
+:root {
+  --backgroundsurfacealternative: rgba(245, 245, 245, 1);
+  --backgroundsurfaceinverse: rgba(26, 26, 26, 1);
+  --backgroundsurfacemain-default: rgba(255, 255, 255, 1);
+  --content-detail-1-font-family: "Roboto-Light", Helvetica;
+  --content-detail-1-font-size: 14px;
+  --content-detail-1-font-style: normal;
+  --content-detail-1-font-weight: 300;
+  --content-detail-1-letter-spacing: 0px;
+  --content-detail-1-line-height: 20px;
+  --content-heading-4-font-family: "Roboto-Regular", Helvetica;
+  --content-heading-4-font-size: 16px;
+  --content-heading-4-font-style: normal;
+  --content-heading-4-font-weight: 400;
+  --content-heading-4-letter-spacing: 0px;
+  --content-heading-4-line-height: 24px;
+  --filltextinverse: rgba(255, 255, 255, 1);
+  --filltextprimary: rgba(26, 26, 26, 1);
+  --filltextprimary-inverse: rgba(255, 255, 255, 1);
+  --shadow-shadow-100-main: 0px 0px 10px 0px rgba(26, 26, 26, 0.14);
+  --special-tag-font-family: "Roboto-Medium", Helvetica;
+  --special-tag-font-size: 12px;
+  --special-tag-font-style: normal;
+  --special-tag-font-weight: 500;
+  --special-tag-letter-spacing: 0.20000000298023224px;
+  --special-tag-line-height: 18px;
+}

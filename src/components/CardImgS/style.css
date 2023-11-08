@@ -1,0 +1,58 @@
+.card-img-s {
+  align-items: flex-start;
+  background-color: var(--backgroundsurfacemain-default);
+  border-radius: 6px;
+  box-shadow: var(--shadow-shadow-100-main);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 160px;
+}
+
+.card-img-s .header {
+  align-self: stretch;
+  background-image: url(https://c.animaapp.com/9zARyAy5/img/imagecontainer-cardimagetext-3@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+
+.card-img-s .text {
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.card-img-s .instance-node {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.card-img-s.alternative {
+  height: 228px;
+}
+
+.card-img-s.main .header {
+  height: 120px;
+}
+
+.card-img-s.alternative .header {
+  flex: 1;
+  flex-grow: 1;
+}
+
+.card-img-s.main .text {
+  align-items: flex-start;
+}
+
+.card-img-s.alternative .text {
+  align-items: center;
+}

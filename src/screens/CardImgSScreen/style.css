@@ -1,0 +1,17 @@
+.card-img-s-instance {
+  height: unset !important;
+  width: 136px !important;
+}
+
+.design-component-instance-node {
+  background-image: url(https://c.animaapp.com/9zARyAy5/img/imagecontainer-cardimagetext-1@2x.png) !important;
+  flex: unset !important;
+  flex-grow: unset !important;
+  height: 120px !important;
+}
+
+.card-img-s-2 {
+  flex: unset !important;
+  white-space: nowrap !important;
+  width: fit-content !important;
+}
